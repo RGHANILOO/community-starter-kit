@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* guides you through to learn about making your project friendlier for collaboration
 
 ## What it does
 
-FEATURES PLACEHOLDER
+
+* Teaches Github use
 
 ## Getting started
 
